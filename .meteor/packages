@@ -20,4 +20,9 @@ shell-server@0.2.4            # Server-side component of the `meteor shell` comm
 autopublish@1.0.7             # Publish all data to the clients (for prototyping)
 materialize:materialize@=0.99.0
 dapearce:material-icons
+iron:router
+jayuda:flx-qrcode
+mdg:camera
+accounts-password
+useraccounts:materialize
 hitchcott:qr-scanner
